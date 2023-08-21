@@ -1,0 +1,34 @@
+____________________________________________________________________________________|SAUCE DEMO|_______________________________________________________________________
+
+-------------------
+|1. PRE-REQUISITOS|
+-------------------
+-Máquina remota Windows 10
+-IntelliJ IDEA Community Edition 2023.1.5
+-JDK 1.8
+-Maven 
+-Google Chrome v114
+-Serenity version 2.6.0
+con ScreenPlay
+-Cucumber
+
+------------------------
+|2. PASOS PARA EJECUTAR|
+------------------------
+1. Iniciar IntelliJ 
+2. Clic en File
+3. Clic en Open
+4. Seleccionar el ejecutable "Web-Automation-base"
+5. Abrir el sauceDemo.feature. Ruta: /src/test/resources/feature/web
+6. Clic en RUN   
+(Importante: Considerar la versión del navegador especificada)
+
+---------------
+|3. RESULTADOS|
+---------------
+- Se obtuvo el mensaje "THANK YOU FOR YOUR ORDER" con éxito.
+
+
+
+
+
